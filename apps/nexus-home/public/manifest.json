@@ -1,0 +1,10 @@
+{
+  "id": "01a1aca9-6e7f-7574-b6cc-45035956560d",
+  "name": "nexus-home",
+  "version": "0.1.0",
+  "description": "",
+  "settings": "settings.html",
+  "config": [],
+  "permissions": [],
+  "art": { "heroPx": 248, "thumbPx": 96 }
+}
